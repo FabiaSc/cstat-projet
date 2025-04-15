@@ -1,11 +1,11 @@
-## cstat-projet
+# cstat-projet
 
 please read me please please please 
 
-#   SalePrice
+##   SalePrice
 
 
-#   HouseStyle
+##   HouseStyle
 Style of dwelling
        1Story	One story
        1.5Fin	One and one-half story: 2nd level finished
@@ -16,7 +16,7 @@ Style of dwelling
        SFoyer	Split Foyer
        SLvl	Split Level
 
-#   BldgType
+##   BldgType
 Type of dwelling
        1Fam	Single-family Detached	
        2FmCon	Two-family Conversion; originally built as one-family dwelling
@@ -24,7 +24,7 @@ Type of dwelling
        TwnhsE	Townhouse End Unit
        TwnhsI	Townhouse Inside Unit
        
-#   OverallQual
+##   OverallQual
 OverallQual: Rates the overall material and finish of the house
        10	Very Excellent
        9	Excellent
@@ -37,12 +37,12 @@ OverallQual: Rates the overall material and finish of the house
        2	Poor
        1	Very Poor
        
-#   CentralAir
+##   CentralAir
 Central air conditioning
        N	No
        Y	Yes
 
-#  GrLivArea
+##  GrLivArea
 Above grade (ground) living area square feet
    MoSold
 Month Sold (MM)
