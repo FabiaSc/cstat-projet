@@ -2,4 +2,4 @@
 
 please read me please please please 
 
-SalePrice, HouseStyle, BldgType, OverallQual, CentralAir,GrLivArea
+SalePrice, HouseStyle, BldgType, OverallQual, CentralAir,GrLivArea, MoSold, YrSold
